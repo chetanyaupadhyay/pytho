@@ -1,4 +1,4 @@
-# python projects.
+# python project.
 class bankacc:
     def _init_(self,acc_no,acc_holder,initial_balance=0):
         self.acc_no=acc_no
